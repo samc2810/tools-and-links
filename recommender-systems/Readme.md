@@ -6,3 +6,4 @@
 * https://github.com/lyst/lightfm
 * http://building-babylon.net/2016/01/26/metadata-embeddings-for-user-and-item-cold-start-recommendations/
 * https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b
+* https://github.com/lyst/lightfm/issues/174
