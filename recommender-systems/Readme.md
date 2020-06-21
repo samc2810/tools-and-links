@@ -1,6 +1,8 @@
 # Papers
 
 * http://files.grouplens.org/papers/ec-99.pdf
+
+# Links
 * https://towardsdatascience.com/recommendation-system-in-python-lightfm-61c85010ce17
 * https://medium.com/product-at-catalant-technologies/using-lightfm-to-recommend-projects-to-consultants-44084df7321c
 * https://github.com/lyst/lightfm
