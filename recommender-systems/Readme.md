@@ -10,3 +10,5 @@
 * https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b
 * https://github.com/lyst/lightfm/issues/174
 * https://github.com/aayushmnit/cookbook/blob/master/notebooks/recsys/Recommender.ipynb
+* https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
+
