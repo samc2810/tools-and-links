@@ -6,3 +6,5 @@ Collection of various links and tools
 * Teaching English without Teaching English | Roberto Guzman | TEDxUPRM => https://www.youtube.com/watch?v=8pZa6R3rmRQ
 * Think Fast. Talk Smart | Matt Abrahams | TEDxMontaVistaHighSchool => https://www.youtube.com/watch?v=o3K_HbpWNpg
   
+# deployment pipelines
+* https://dzone.com/articles/7-pipeline-design-patterns-for-continuous-delivery
