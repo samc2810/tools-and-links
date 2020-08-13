@@ -10,4 +10,5 @@ Collection of various links and tools
 * https://dzone.com/articles/7-pipeline-design-patterns-for-continuous-delivery
 * https://dev.to/aakatev/5-devops-books-to-read-for-free-3860
 * https://www.codingblocks.net/podcast/comparing-git-workflows/
+* https://github.blog/2020-08-13-why-write-adrs/
 
