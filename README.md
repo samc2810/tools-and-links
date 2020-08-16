@@ -11,4 +11,5 @@ Collection of various links and tools
 * https://dev.to/aakatev/5-devops-books-to-read-for-free-3860
 * https://www.codingblocks.net/podcast/comparing-git-workflows/
 * https://github.blog/2020-08-13-why-write-adrs/
+* https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/
 
