@@ -12,6 +12,7 @@ Collection of various links and tools
 * https://www.codingblocks.net/podcast/comparing-git-workflows/
 * https://github.blog/2020-08-13-why-write-adrs/
 * https://github.blog/2020-08-04-codegen-semantics-improved-language-support-system/
+* vscode live share
 
 # Testing
 * https://www.youtube.com/watch?v=HhwElTL-mdI
